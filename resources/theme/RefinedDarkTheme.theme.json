@@ -1,0 +1,14 @@
+{
+  "name": "RefinedDarkTheme",
+  "author": "NicolasLCQ",
+  "dark": true,
+  "colors": {
+    "BackGroundColor": "#000000",
+    "Dev": "#FFFF00"
+  },
+  "ui": {
+    "MainToolbar": {
+      "background": "Dev"
+    }
+  }
+}
