@@ -2,7 +2,7 @@
 <idea-plugin>
   <id>RefinedDarkTheme</id>
   <version>1.0.0</version>
-  <name>RefinedDarkTheme</name>
+  <name>Refined Dark</name>
   <category>UI</category>
   <vendor url="https://www.github.com/NicolasLCQ">NicolasLCQ</vendor>
   <idea-version since-build="*" />
