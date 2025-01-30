@@ -1,4 +1,5 @@
 {
+  "can help" : "https://github.com/one-dark/jetbrains-one-dark-theme/blob/master/buildSrc/templates/oneDark.template.theme.json, https://github.com/dracula/jetbrains/blob/master/src/main/resources/themes/Dracula.theme.json",
   "name": "AllProperties",
   "author": "NicolasLCQ",
   "dark": true,
