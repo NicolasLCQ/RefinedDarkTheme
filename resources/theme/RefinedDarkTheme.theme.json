@@ -36,52 +36,68 @@
   },
   "ui": {
     "*": {
-      "Background": "DefaultBackgroundColor",
       "background": "DefaultBackgroundColor",
-      "backgroundColor": "DefaultBackgroundColor",
-      "activeBackground": "DefaultBackgroundColor",
+
+      "selectionBackground":"SelectedBackgroundColor",
+      "selectionInactiveBackground": "SelectedBackgroundColor",
+      "selectionBackgroundInactive": "SelectedBackgroundColor",
+      "selectedInactiveBackground": "SelectedBackgroundColor",
+      "selectedBackground": "SelectedBackgroundColor",
+
       "inactiveBackground": "DefaultBackgroundColor",
       "disabledBackground": "DefaultBackgroundColor",
+
       "hoverBackground": "HoverBackgroundColor",
       "hoverInactiveBackground": "HoverBackgroundColor",
-      "selectionBackground":"SelectedBackgroundColor",
-      "selectedBackground": "SelectedBackgroundColor",
-      "selectedInactiveBackground": "SelectedBackgroundColor",
-      "selectionInactiveBackground": "SelectedBackgroundColor",
-      "errorBackground": "ErrorBackgroundColor",
-      "warningBackground": "WarningBackgroundColor",
 
-      "Foreground": "DefaultForegroundColor",
+
+
       "foreground": "DefaultForegroundColor",
-      "foregroundColor": "DefaultForegroundColor",
-      "loadingForeground" : "DisabledForegroundColor",
-      "infoForeground": "DefaultForegroundColor",
+
+      "selectedForeground": "DefaultForegroundColor",
+      "selectionForeground": "DefaultForegroundColor",
+      "selectionInactiveForeground": "DefaultForegroundColor",
+      "acceleratorSelectionForeground": "DefaultForegroundColor",
+      "acceleratorForeground": "DefaultForegroundColor",
+
       "inactiveForeground": "DefaultForegroundColor",
       "disabledForeground": "DisabledForegroundColor",
+
       "hoverForeground": "DefaultForegroundColor",
-      "selectionForeground": "DefaultForegroundColor",
-      "selectedForeground": "DefaultForegroundColor",
-      "selectionInactiveForeground": "DefaultForegroundColor",
-      "acceleratorForeground": "DefaultForegroundColor",
-      "acceleratorSelectionForeground": "DefaultForegroundColor",
+
+
 
       "disabledText": "DisabledForegroundColor",
+      "loadingForeground" : "DisabledForegroundColor",
+
+      "infoForeground": "DefaultForegroundColor",
+      "errorForeground": "ErrorForegroundColor",
       "linkForeground": "LinkForegroundColor",
+
+
+
+      "errorBackground": "ErrorBackgroundColor",
+      "errorBorderColor": "ErrorBorderColor",
+
+      "warningBackground": "WarningBackgroundColor",
+      "warningBorderColor": "WarningBorderColor",
+
+
 
       "separatorColor": "DefaultBorderColor",
 
       "borderColor": "DefaultBorderColor",
       "disabledBorderColor": "DefaultBorderColor",
-      "errorBorderColor": "ErrorBorderColor",
-      "warningBorderColor": "WarningBorderColor",
       "focusedBorderColor": "FocusBorderColor",
+
+
 
       "caretForeground": "DefaultForegroundColor",
 
+
+
       "arc": "15",
-
       "underlineHeight": "0"
-
     },
     "ActionButton": {
       "hoverBorderColor": "",
